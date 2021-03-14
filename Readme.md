@@ -1,6 +1,11 @@
 # Portfolio
+My personal portfolio
 
+### Link to Page:
+https://preft.github.io/
 
+### Visual:
+![](img/ExampleShot.png)
 
 ### Theme Credits:
 Theme Name: Mentor
