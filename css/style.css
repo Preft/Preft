@@ -35,7 +35,7 @@ table {
 .section-padding{
 	padding: 20px 0px;
 
-}fishboy
+}
 /*///////////////////////////////////// Header Colors ////////////////////////////////////////////*/
 h1, h3, h4, h5, h6{
     font-family: Open Sans, sans-serif;
@@ -90,16 +90,7 @@ a.linksForMe1{
     
 }
 
-
-.fishboy{
-    text-indent: 30px;
-    margin-left: 40px;
-    margin-right: 20px;
-}
-.fishboy1{
-    margin-left: 40px;
-}
-.fishboy2{
+.contact-paragraph{
     margin-left: 40px;
     text-align: center;
 }
@@ -380,13 +371,13 @@ About
 }
 
 
-.ihate{
+.section-target{
     background-color: #E1C699;
     padding-bottom: 30px;
     padding-top: 20px;
     color: #111;
 }
-.ihate2{
+.section-target1{
     background-color: #E1C699;
     padding-bottom: 30px;
     padding-top: 20px;
@@ -592,11 +583,7 @@ Course
 #courses{
     background-color:  #E1C699 !important;
 }
-.minelol {
-    height: 100%;
-    width: 100%;
-    padding-bottom: 30px;
-}
+
 /***********************************
 Price Table
 ************************************/
