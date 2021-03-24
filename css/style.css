@@ -91,7 +91,7 @@ a.linksForMe1{
 }
 
 .contact-paragraph{
-    margin-left: 40px;
+    margin-left: 0px;
     text-align: center;
 }
 
@@ -1100,6 +1100,13 @@ a.linksForMe1{
         padding-bottom: 10px;
     }
 
+    .header-section div p{
+        font-size: 14px;
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: center;
+    }
+
     
     }
 
@@ -1162,6 +1169,12 @@ a.linksForMe1{
         padding-top: 10px;
         padding-bottom: 10px;
     }
+    .header-section div p{
+        font-size: 14px;
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: center;
+    }
 }
     
 
@@ -1207,15 +1220,16 @@ a.linksForMe1{
     .about-pic {
     float: none;
     padding: 50px 50px 50px 50px;
-    height: 375px;
-    width: 400px;
+    height: 270px;
+    width: 100%;
     }
     .text-dec {
     font-size: 20px;
     }
     .big-text {
-    font-size: 3
-    0px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     }
     .small-text {
     font-size: 14px;
@@ -1223,8 +1237,11 @@ a.linksForMe1{
     .intro-para {
     font-size: 30px;
     }
-    .header-section p{
+    .header-section div p{
         font-size: 14px;
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: center;
     }
     .heading {
     margin-bottom: 20px;
@@ -1290,8 +1307,6 @@ a.linksForMe1{
         padding-top: 10px;
         padding-bottom: 10px;
     }
-
-    
 }
 /* My add ons */
 /*#about {
@@ -1326,7 +1341,7 @@ a.linksForMe1{
 }
 #down {
     color: #111 !important;
-    margin-left: 40px;
+    margin-left: 0px;
     text-decoration: underline;
     text-align: center;
     
